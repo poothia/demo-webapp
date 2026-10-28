@@ -16,7 +16,7 @@ app = Flask(__name__)
 #  DEMO: Change these values and push to trigger the CD pipeline!
 # =====================================================================
 APP_VERSION = "1.0.0"
-APP_TITLE = "Welcome to the Demo App5"
+APP_TITLE = "Welcome to the Demo App2"
 APP_SUBTITLE = "Deployed automatically by Ansible Automation Platform"
 THEME_COLOR = "#ee0000"
 # =====================================================================
